@@ -1,4 +1,4 @@
-import { getJSON } from "./test_fetch.js";
+import { getJSON } from "./fetch.js";
 
 // make the call to the unsplash API
 
