@@ -1,4 +1,4 @@
-import { getJSON } from "./fetch.JS";
+import { getJSON } from "./fetch.js";
 
 document.getElementById("loadAdvice").addEventListener("click", loadResources);
 
